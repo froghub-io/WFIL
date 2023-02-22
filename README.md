@@ -1,1 +1,1 @@
-# WFIL
+# WFIL - Wrapped Filecoin
