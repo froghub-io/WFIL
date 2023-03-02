@@ -1,7 +1,7 @@
-# WFIL - Wrapped Filecoin
+# wFIL - Wrapped Filecoin
 
 
-The WFIL contract are built with can‘t be upgraded, can‘t be terminated, and there is no service fee. Once deployed, it will no longer require maintenance.
+The wFIL contract are built with can‘t be upgraded, can‘t be terminated, and there is no service fee. Once deployed, it will no longer require maintenance.
 
 Future new functions will release a new version of the contract to carry it, and guide users to switch in an orderly manner instead of forcing users to upgrade.
 
@@ -19,4 +19,4 @@ Future new functions will release a new version of the contract to carry it, and
 
 ## License
 
-Licensed under [GPL-3.0](https://github.com/froghub-io/WFIL/blob/main/LICENSE)
+Licensed under [GPL-3.0](https://github.com/froghub-io/wFIL/blob/main/LICENSE)
